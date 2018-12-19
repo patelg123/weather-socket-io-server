@@ -1,0 +1,19 @@
+{
+  "name": "real_time_weather_server",
+  "version": "1.0.0",
+  "description": "Real Time Weather App using Socket.io and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelg123/weather-socket-io-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelg123/weather-socket-io-server/issues"
+  },
+  "homepage": "https://github.com/patelg123/weather-socket-io-server#readme"
+}
